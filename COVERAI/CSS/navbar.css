@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Manrope:wght@200..800&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+ 
+ page{
+     
+     padding: 18px;
+     position: relative;
+
+ }
+ .inner-div{
+    width: 80%;
+    margin: 0 auto;
+     
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+    justify-content: space-between;
+ }
+ 
+ Navbar{
+    font-family: Plus Jakarta Sans;
+    display: flex;
+    justify-content: space-between;
+    width: 99%;
+    margin-top: -30px;
+ 
+
+padding: 1px;
+ 
+
+ 
+
+ }
+ .fearture{
+    display: flex;
+ }
+ .buttons{
+     
+   
+    display: flex;
+     
+ 
+gap: 16px;
+
+ }
+ .login{
+   
+    width: 95px;
+height: 51px;
+padding: 8px, 8px, 7px, 8px;
+border-radius: 100px;
+border: 1px solid black;
+
+ }
+ .Demo{
+    border: none;
+    width:139px;
+height: 52px;
+padding: 14px, 24px, 14px, 24px;
+border-radius: 1000px;
+gap: 10px;
+margin-right: 20%;
+color: aliceblue;
+background: linear-gradient(98.81deg, #8B67F7 12.23%, #5F44F6 45.34%, #5CAFF9 95.76%);
+
+
+ }
+.image{
+    display: flex;
+
+     
+}
+.lies{
+    
+     text-align: center;
+    display: flex;
+    width: 315px;
+    height: 14px;
+    top: 65px;
+    margin-left: 80px;
+    margin-top: 20px;
+ 
+gap: 32px;
+
+    
+}
+.lies li{
+    font-weight: 500;
+    list-style: none;
+    font-size: 16px;
+    
+    
+    
+}
+ 
+ 
